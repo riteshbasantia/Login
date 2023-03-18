@@ -1,0 +1,3 @@
+const appRoute={
+    dashboard:"/dashboard"
+}
